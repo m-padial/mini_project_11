@@ -11,7 +11,7 @@ env:
   AWS_REGION: eu-west-1
   ECR_REPOSITORY: miax_13_ccy
   LAMBDA_NAME: miax_13_ccy
-  DOCKERFILE_PATH: dockerfiles\ccy\dockerfile
+  DOCKERFILE_PATH: dockerfiles/ccy/dockerfile
 
 defaults:
   run:
