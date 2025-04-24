@@ -3,3 +3,4 @@ fsspec
 pandas
 s3fs
 lxml
+requests
